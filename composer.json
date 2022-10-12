@@ -1,0 +1,17 @@
+{
+    "name": "yactouat/oop2",
+    "description": "OOP2 course code",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yactouat",
+            "email": "yactouat@hotmail.com"
+        }
+    ],
+    "require": {}
+}
